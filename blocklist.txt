@@ -16,7 +16,6 @@ amazon-adsystem.com
 prod.us-east-1.sonar.prime-video.amazon.dev
 arcus-uswest.amazon.com
 dcape-na.amazon.com
-todo-ta-g7g.amazon.com
 mmechocaptiveportal.com
 avsxappcaptiveportal.com
 fireoscaptiveportal.com
